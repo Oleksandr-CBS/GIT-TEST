@@ -4,6 +4,7 @@ body {
 }
 
 p {
-    color:red
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
